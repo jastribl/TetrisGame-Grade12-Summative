@@ -1,7 +1,7 @@
 # TetrisGame-Grade12-Summative
 Summative programming project for grade 12 Computer Science / Programming course.
 
- - Planned, coded, and rigorously tested my own version of TetrisTM
+ - Planned, coded, and rigorously tested my own Tetris like game
  - Gained valuable experience with animation (double buffering), game design, and Object Oriented Programming (class abstraction and implantation)
  - Project created, debugged and tested in a short amount of time
 - Debugging and testing included coding errors and rigorous case-based-testing for specific physical and logical events (how shapes interact with each other when rotated)
